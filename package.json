@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "process": "node ./lesson/process.js"
+    "process": "node ./lesson/process.js",
+    "path": "node ./lesson/path.js"
   },
   "author": "les",
   "license": "ISC",
